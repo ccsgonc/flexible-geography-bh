@@ -1,0 +1,8 @@
+# Establishment-level source data is confidential: never commit spreadsheets or RAIS extracts
+*.xlsx
+*.xls
+*.rds
+*.tmp
+.Rhistory
+.RData
+.Rproj.user/
