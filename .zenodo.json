@@ -1,7 +1,8 @@
 {
   "title": "Tourist accommodation in Belo Horizonte, 2015: a flexible-geography explorer",
   "upload_type": "software",
-  "description": "<p>Interactive companion to Gonçalves (2020), <em>Production of economic statistics for tourist accommodation services of Belo Horizonte under the flexible geography approach</em>, Revista de Turismo Contemporâneo 8(2), 198–221. The app adds up the value added of tourist accommodation services, establishments and jobs in any region the user brings into view on the map. Establishment-level data (RAIS 2015) are confidential and replaced by an adaptive, disclosure-controlled grid: at least 3 establishments per cell and no establishment above 85% of a cell's value added. Built with R and Shiny and served as a Shinylive (WebAssembly) app.</p><p>Live app: <a href=\"https://ccsgonc.github.io/flexible-geography-bh/\">https://ccsgonc.github.io/flexible-geography-bh/</a></p>",
+  "publication_date": "2020",
+  "description": "<p>Interactive companion to Gonçalves (2020), <em>Production of economic statistics for tourist accommodation services of Belo Horizonte under the flexible geography approach</em>, Revista de Turismo Contemporâneo 8(2), 198–221. The app adds up the value added of tourist accommodation services, establishments and jobs in any region the user brings into view on the map. Establishment-level data (RAIS 2015) are confidential and replaced by an adaptive, disclosure-controlled grid: at least 3 establishments per cell and no establishment above 85% of a cell's value added. Built with R and Shiny and served as a Shinylive (WebAssembly) app. First developed in 2020 as part of the article; this public, disclosure-controlled version was released in 2026.</p><p>Live app: <a href=\"https://ccsgonc.github.io/flexible-geography-bh/\">https://ccsgonc.github.io/flexible-geography-bh/</a></p>",
   "creators": [
     {
       "name": "Gonçalves, Caio César Soares",

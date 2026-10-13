@@ -43,7 +43,7 @@ To run it locally as a regular Shiny app: `shiny::runApp("app")`.
 
 ## Citing the app
 
-> Gonçalves, C. C. S. (2026). *Tourist accommodation in Belo Horizonte, 2015: a flexible-geography explorer* (v1.0.0) [Software]. Zenodo. <https://doi.org/10.5281/zenodo.23328480>
+> Gonçalves, C. C. S. (2020). *Tourist accommodation in Belo Horizonte, 2015: a flexible-geography explorer* (v1.0.0) [Software]. Zenodo. <https://doi.org/10.5281/zenodo.23328480>
 
 The DOI above is for v1.0.0. To cite whatever version is current, use the concept DOI in the badge, [10.5281/zenodo.23328479](https://doi.org/10.5281/zenodo.23328479).
 
