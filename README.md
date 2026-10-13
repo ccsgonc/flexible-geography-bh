@@ -1,5 +1,7 @@
 # Tourist accommodation in Belo Horizonte, 2015: a flexible-geography explorer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23328479.svg)](https://doi.org/10.5281/zenodo.23328479)
+
 Interactive companion to
 
 > Gonçalves, C. C. S. (2020). Production of economic statistics for tourist accommodation services of Belo Horizonte under the flexible geography approach. *Revista de Turismo Contemporâneo*, 8(2), 198–221. <https://doi.org/10.21680/2357-8211.2020v8n2ID19375>
@@ -38,6 +40,12 @@ shinylive::export("app", "docs")
 ```
 
 To run it locally as a regular Shiny app: `shiny::runApp("app")`.
+
+## Citing the app
+
+> Gonçalves, C. C. S. (2026). *Tourist accommodation in Belo Horizonte, 2015: a flexible-geography explorer* (v1.0.0) [Software]. Zenodo. <https://doi.org/10.5281/zenodo.23328480>
+
+The DOI above is for v1.0.0. To cite whatever version is current, use the concept DOI in the badge, [10.5281/zenodo.23328479](https://doi.org/10.5281/zenodo.23328479).
 
 ## Licence
 
